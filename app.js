@@ -40,16 +40,13 @@ module.exports = app;
 
 //mongodb+srv://Admin:<password>@cluster0.t6b1o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
-
 //const userDB = "dbUserApp";
 //const passDB = "QsSK8JN1shm2neR6";
 //const dBase = "GestionSanVicente";
-
 //const productsRoutes = require("./routes/products");
 //const categoriaRoutes = require("./routes/categoria");
 ///const usuarioRoutes = require("./routes/usuarios");
 //const ventasRoutes = require("./routes/ventas");
-
 //app.use(cors());
 //app.use(express.json());
 //app.use(express.urlencoded({ extended: false }));
