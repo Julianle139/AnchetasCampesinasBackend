@@ -28,7 +28,7 @@ mongoose
       "?retryWrites=true&w=majority"
   )
   .then(() => {
-    console.log("Estamos conectados");
+    console.log("Estamos conectados ;D");
   });
 
 app.use("/api/products", productsRoutes);
