@@ -1,7 +1,7 @@
 {
-  "name": "MercadosCampesinos-backend",
+  "name": "AnchetasCampesinasBackend",
   "version": "1.0.0",
-  "description": "",
+  "description": "App de Anchetas Campesinas Backend",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,6 @@
     "mongoose": "^6.0.12",
     "nodemon": "^2.0.14"
   },
-  "repository": "https://github.com/Julianle139/MercadosCampesinosBackend.git"
+  "repository": "https://github.com/Julianle139/AnchetasCampesinas.git",
+  "private": true
 }
