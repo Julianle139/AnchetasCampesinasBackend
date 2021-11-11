@@ -36,5 +36,4 @@ router.delete('/:id', async (req, res) => {
   await Venta.findByIdAndRemove(req.params.id);
   res.json({status: 'Sell Deleted'});
 });
-
 module.exports = router;
