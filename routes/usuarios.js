@@ -36,5 +36,4 @@ router.delete('/:id', async (req, res) => {
   await Usuario.findByIdAndRemove(req.params.id);
   res.json({status: 'User Deleted'});
 });
-
 module.exports = router;
